@@ -1,4 +1,4 @@
-# Macaron 〜マカロンとの 4 日間〜
+# macaron-game
 
 This is a Unity project for a mobile game "Macaron 〜マカロンとの 4 日間〜".
 
