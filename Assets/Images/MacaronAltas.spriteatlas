@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MacaronAltas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: cef825c1460284c21b9d57c25d69727d, type: 3}
+    - {fileID: 102900000, guid: 90d5aae1aa3594bbba49fa8fd9bbbda5, type: 3}
+    - {fileID: 102900000, guid: f53cbcef0c1d64a429e2f978a5c248f2, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - d889f22077f0e44448341cd20c777806: 21300000
+    - 5ba82911b2b1849c4b08c97187677c0e: 21300000
+    - 58aff641f6443453ab6ed41706059854: 21300000
+    - bf656942dbea34f57acdc5dadf45ee82: 21300000
+    - 3bfb46920fdb34803b99c901431b7454: 21300000
+    - 8e5d35b2c7ac04b8e8c0cb6d64d4b176: 21300000
+    - e09f02d20cf174066b167c745e47c4bb: 21300000
+    - b79aaef478d2d4a4f96afb74334e942c: 21300000
+    - a41ee0666281c448b89d7237c0f4263c: 21300000
+    - 26f73da696b854c8d800f05c9eb67ac3: 21300000
+    - b3379a9a8037b430d99feb5c66e42eb5: 21300000
+    - 1abec7da9792844398fefcdbea92bb60: 21300000
+    - 3869184b8019245649651ae62892c880: 21300000
+    - ec72bacbaaa294ab8b414fe04a891bd5: 21300000
+    - 7082ee8c16e634087a88035ab58c4939: 21300000
+    - d86b74ccfa9554e1ea99363fe731eb5e: 21300000
+    - 0ea7522d64123483586745730ff143f7: 21300000
+    - 59169f2e8c3f84f84b7b34019e720d89: 21300000
+    - 575f5d0faf846427f95fb78206021ec6: 21300000
+    - 914a27ff9f24e40c09657ceedd3c86cf: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: d889f22077f0e44448341cd20c777806, type: 3}
+  - {fileID: 21300000, guid: 5ba82911b2b1849c4b08c97187677c0e, type: 3}
+  - {fileID: 21300000, guid: 58aff641f6443453ab6ed41706059854, type: 3}
+  - {fileID: 21300000, guid: bf656942dbea34f57acdc5dadf45ee82, type: 3}
+  - {fileID: 21300000, guid: 3bfb46920fdb34803b99c901431b7454, type: 3}
+  - {fileID: 21300000, guid: 8e5d35b2c7ac04b8e8c0cb6d64d4b176, type: 3}
+  - {fileID: 21300000, guid: e09f02d20cf174066b167c745e47c4bb, type: 3}
+  - {fileID: 21300000, guid: b79aaef478d2d4a4f96afb74334e942c, type: 3}
+  - {fileID: 21300000, guid: a41ee0666281c448b89d7237c0f4263c, type: 3}
+  - {fileID: 21300000, guid: 26f73da696b854c8d800f05c9eb67ac3, type: 3}
+  - {fileID: 21300000, guid: b3379a9a8037b430d99feb5c66e42eb5, type: 3}
+  - {fileID: 21300000, guid: 1abec7da9792844398fefcdbea92bb60, type: 3}
+  - {fileID: 21300000, guid: 3869184b8019245649651ae62892c880, type: 3}
+  - {fileID: 21300000, guid: ec72bacbaaa294ab8b414fe04a891bd5, type: 3}
+  - {fileID: 21300000, guid: 7082ee8c16e634087a88035ab58c4939, type: 3}
+  - {fileID: 21300000, guid: d86b74ccfa9554e1ea99363fe731eb5e, type: 3}
+  - {fileID: 21300000, guid: 0ea7522d64123483586745730ff143f7, type: 3}
+  - {fileID: 21300000, guid: 59169f2e8c3f84f84b7b34019e720d89, type: 3}
+  - {fileID: 21300000, guid: 575f5d0faf846427f95fb78206021ec6, type: 3}
+  - {fileID: 21300000, guid: 914a27ff9f24e40c09657ceedd3c86cf, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - start-logo
+  - fukidashi-mokumoku
+  - effect-heart
+  - effect-bubble
+  - body-base
+  - signboard
+  - face-normal
+  - criware_logo
+  - face-sleep
+  - fukidashi-default
+  - point-bg
+  - dream-bard
+  - dream-macarons
+  - white-circle
+  - icon-link
+  - body-normal
+  - body-goro-back
+  - body-goro-forward
+  - button-bg
+  - face-nico
+  m_RenderDataMap: {}
+  m_Tag: MacaronAltas
+  m_IsVariant: 0

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 81d21fdbdc97b4e7aab63ff3cac95c5a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: 3
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Yusei Magic
+  fallbackFontReferences: []
+  customCharacters: "0123456789\u306F\u3058\u3081\u304B\u3089\u3064\u3065\u304D\u30DE\u30AB\u30ED\u30F3\u3068\u30D6\u306E\u3070\u3057\u3087Thankyoufrplig!BGMs:Ddevbmcw/_"
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
